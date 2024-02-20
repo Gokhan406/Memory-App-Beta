@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App{
+    padding-left: 21.5%;
+    padding-right: 21.5%;
+}
+
+.box{
+    background-color: aliceblue;
+    border: 2px black solid;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.kare{
+    background: url("./components/images/kare.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0;
+}
+
+.yıldız{
+    background: url("./components/images/yıldız.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0;
+}
+
+.daire{
+    background: url("./components/images/daire.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0;
+}
+
+.dikdörtgen{
+    background: url("./components/images/dikdörtgen.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0;
+}
+
+.üçgen{
+    background: url("./components/images/üçgen.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0;
+}
+
+.beşgen{
+    background: url("./components/images/beşgen.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0;
+}
+
+.text{
+    text-align: center;
+}
